@@ -52,13 +52,13 @@ This project uses descriptive analysis, including description of trends by genre
 
 - The 3 genres associated with half of all titles produced are nowhere in the genres which have the best profit margin either.
     - Genres with highest ratings:
-        1. Documentary
-        2. Game-show
-        3. News
+    1. Documentary
+    2. Game-show
+    3. News
     - Genres with most profit margin:
-        1. Mystery
-        2. Animation
-        3. Sci-Fi
+    1. Mystery
+    2. Animation
+    3. Sci-Fi
 
 ### What type of films are  highly rated by viewers?
 
