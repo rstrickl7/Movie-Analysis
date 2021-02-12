@@ -1,5 +1,3 @@
-![austin animal center](./images/austin-animal-center.jpg)
-
 # Microsoft Wants to be in the Movie Biz
 
 **Author**: [Becky Strickland]
