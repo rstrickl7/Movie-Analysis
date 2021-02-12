@@ -22,7 +22,9 @@ This project uses descriptive analysis, including description of trends by genre
 ## Results
 
 What type of films are our competitors producing?
-![Graph-1](./Graph-1.png)
+![Graph-1](Images/Graph-1.png)
+
+
 
 - Genres with most titles:
     1. Drama
