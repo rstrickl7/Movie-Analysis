@@ -77,13 +77,13 @@ This project uses descriptive analysis, including description of trends by genre
  
 - Do highly rated genres earn higher profits?
     - Genres with highest ratings:
-        1. Documentary
-        2. Game-show
-        3. News
+    1. Documentary
+    2. Game-show
+    3. News
     - Genres with most profit:
-        1. Animation
-        2. Adventure
-        3. Sci-Fi
+    1. Animation
+    2. Adventure
+    3. Sci-Fi
 - The 3 genres which received the highest average rating are not part of the top 3 earning genres.
 
 ### Do highly rated genres have better margins?
