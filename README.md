@@ -176,6 +176,7 @@ See the full analysis in the [Jupyter Notebook](./Movie-Analysis.ipynb) or revie
 ├── Data
 ├── Images
 ├── Movie-Analysis.ipynb
+├── GitHub-print.pdf
 ├── Movie-Analysis-Jupyter-Notebook.pdf
 ├── Movie-Analysis-Presentation.pdf
 └── README.md
